@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'extra',
     'Como se chama o professor de fisica?',
     'o professor de fisica se chama Lourival'
 )
