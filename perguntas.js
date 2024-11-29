@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fisica',
+    'quem descobriu a gravidade?',
+    'A primeira formulação mais séria da gravidade foi elaborada pelo físico inglês Sir Isaac Newton (1642~1727).'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quimica',
+    'Quais são os modelos atomicos?',
+    'Os modelos atômicos desenvolvidos foram: modelo atômico de Dalton, modelo atômico de Thomson, modelo atômico de Rutherford, modelo atômico de Bohr e modelo atômico de Schrödinger.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Fisica',
+    'o que é uma estrela de neutrons?',
+    'Na astronomia, a estrela de nêutrons (português brasileiro) ou neutrões (português europeu) é um objeto astronômico super denso, composto quase que inteiramente de nêutrons, que possui alta velocidade e temperatura, forte gravidade e campos magnéticos.'
 )
 
 criaCartao(
